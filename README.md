@@ -1,0 +1,3 @@
+# TestingBidME
+
+Initial testing for bidding/aution Mobile application......
